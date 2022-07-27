@@ -1,0 +1,5 @@
+#ignore data.db
+data.db
+
+#ignore pycache
+__pycache__
