@@ -3,7 +3,7 @@
 ### create virtual environment
 `virtualenv venv --python=python3.8`
 
-### activare virtual environment
+### activate virtual environment
 `source venv/Scripts/activate`
 
 ### install Flask
