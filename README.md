@@ -1,1 +1,1 @@
-# retail-dashboard
+# US Police Shootings analysis dashboard
