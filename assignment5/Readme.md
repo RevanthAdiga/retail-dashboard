@@ -1,4 +1,4 @@
-# Retail-dashboard  assignmnet-4
+# US Police Shootings analysis dashboard
 
 ### navigate to server_backend folder
 ### create virtual environment
